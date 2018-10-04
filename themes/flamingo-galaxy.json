@@ -1,5 +1,5 @@
 {
-  "name": "Flamingo Galaxy",
+  "name": "Flamingo Nebula",
   "type": "dark",
   "colors": {
     "activityBar.background": "#263647",
@@ -10,7 +10,7 @@
     "editor.background": "#263647",
     "editor.foreground": "#ffffff",
     "editor.lineHighlightBorder": "#263647",
-    "editorGroupHeader.tabsBackground": "#121921",
+    "editorGroupHeader.tabsBackground": "#1b2632",
     "editorLineNumber.foreground": "#c7c7c7",
     "editorWidget.background": "#263647",
     "focusBorder": "#69aff8",
@@ -44,7 +44,8 @@
     "terminal.ansiYellow": "#fef035",
     "terminal.foreground": "#ffffff",
     "terminal.selectionBackground": "#c1deff",
-    "titleBar.activeBackground": "#000000"
+    "titleBar.activeBackground": "#263647",
+    "titleBar.inactiveBackground": "#263647"
   },
   "tokenColors": [
     {
@@ -60,10 +61,11 @@
     {
       "name": "Comments",
       "scope": [
-        "comment"
+        "comment",
+        "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#c7c7c7",
+        "foreground": "#717171",
         "fontStyle": "italic"
       }
     },

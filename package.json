@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "url": "https://github.com/oleblaesing/flamingo-galaxy/issues"
+    "url": "https://github.com/kgrubb/flamingo-nebula/issues"
   },
   "categories": [
     "Themes"
@@ -8,14 +8,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Flamingo Galaxy",
-        "path": "./themes/flamingo-galaxy.json",
+        "label": "Flamingo Nebula",
+        "path": "./themes/flamingo-nebula.json",
         "uiTheme": "vs-dark"
       }
     ]
   },
-  "description": "Flamingo Galaxy color theme inspired by jglovier/galaxy-theme-iterm",
-  "displayName": "Flamingo Galaxy",
+  "description": "Flamingo Nebula color theme, heavily inspired by Flamingo Galaxy",
+  "displayName": "Flamingo Nebula",
   "engines": {
     "vscode": "^1.23.0"
   },
@@ -23,14 +23,14 @@
     "color": "#ee70a9",
     "theme": "dark"
   },
-  "homepage": "https://marketplace.visualstudio.com/items?itemName=oleblaesing.flamingo-galaxy",
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=kgrubb.flamingo-nebula",
   "icon": "logo.png",
   "license": "MIT",
-  "name": "flamingo-galaxy",
-  "publisher": "oleblaesing",
+  "name": "flamingo-nebula",
+  "publisher": "kgrubb",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oleblaesing/flamingo-galaxy.git"
+    "url": "https://github.com/kgrubb/flamingo-nebula.git"
   },
-  "version": "0.0.3"
+  "version": "0.0.1"
 }

@@ -1,8 +1,13 @@
-# Flamingo Galaxy
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=kgrubb.flamingo-nebula">
+    <img alt="Yarn" src="./logo.png" width="256">
+  </a>
+  <h1 align="center">Flamingo Nebula</h1>
+</p>
 
-A dark theme for Visual Studio Code
+A fork of the [Flamingo Galaxy theme](https://marketplace.visualstudio.com/items?itemName=oleblaesing.flamingo-galaxy) for Visual Studio Code.
 
-![Screenshot](https://raw.githubusercontent.com/oleblaesing/flamingo-galaxy/master/screenshot.png "Screenshot")
+![Screenshot](./screenshot.png "Screenshot")
 
 ## License
 
