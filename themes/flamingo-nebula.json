@@ -23,6 +23,7 @@
     "list.inactiveSelectionBackground": "#364c63",
     "selection.background": "#c1deff",
     "sideBar.background": "#263647",
+    "statusBar.noFolderBackground": "#ee70a9",
     "statusBar.background": "#ee70a9",
     "tab.inactiveBackground": "#1b2632",
     "tab.inactiveForeground": "#c7c7c7",
